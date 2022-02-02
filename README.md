@@ -1,6 +1,7 @@
 # 2022-listeria-spectrum-similarity
 
 ![GitHub release](https://img.shields.io/github/v/release/ralfg/2022-listeria-spectrum-similarity)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5948475.svg)](https://doi.org/10.5281/zenodo.5948475)
 
 Code and results for similarity calculation between endogenous and synthetic Listeria peptide
 spectra.
