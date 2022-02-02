@@ -1,0 +1,16 @@
+name: spectrum-similarity
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyter_client=7.1
+  - jupyter_core=4.9
+  - numpy=1.21.5
+  - pandas=1.3.5
+  - pip=21.3
+  - pyteomics=4.5.2
+  - python=3.7
+  - spectrum_utils=0.3.5
+  - pip:
+    - psims==0.1.45
